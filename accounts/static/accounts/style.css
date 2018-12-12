@@ -16,3 +16,18 @@
 .form-control{
     margin-bottom: 15px;
 }
+body {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  
+.navbar {
+    margin-bottom: 20px;
+}
+#homepage {
+      margin-top: 50px !important;
+}
+.text-center{
+    margin-bottom: 50px;
+}
+ 
